@@ -1,0 +1,25 @@
+body {
+    width: 90%;
+    max-width: 1200px;
+    margin: auto;
+    border: 2px solid rgb(165, 16, 16);
+        font: 16px Arial, sans-serif;
+    }
+
+
+
+        h1 {
+            color:rgb(197, 197, 157);
+            font-size: 20px;
+        }
+        
+
+h2 {
+    color: rgb(17, 196, 17);
+    font-size: 20px;
+}
+
+main {
+    height: 70vh;
+}
+
